@@ -1,1 +1,1 @@
-# ti84-average-cost-tutorial
+# TI84-average-cost-tutorial
